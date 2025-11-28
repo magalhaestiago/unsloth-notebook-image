@@ -4,3 +4,7 @@ seaborn==0.13.0
 pandas
 numpy
 matplotlib
+fastapi[all]
+uvicorn
+unsloth
+unsloth_zoo
